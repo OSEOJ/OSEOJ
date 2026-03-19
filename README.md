@@ -1,4 +1,4 @@
-<h2>Hi, I'm Jo Yeongseo</h2>
+<h2>Hi 👋, I'm Yeongseo Jo</h2>
 <p>I'm currently a Medical Image AI Researcher at <strong>Asan Medical Center</strong> <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="13"/> based in Seoul, South Korea. I'm passionate about applying AI across diverse domains — from medical imaging to finance — and exploring how data-driven approaches can solve real-world problems.</p>
 
 <h3>Things I code with</h3>
@@ -28,6 +28,11 @@
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
+<h3>Research</h3>
+<ul>
+  <li><a href="https://github.com/OSEOJ/CXR-CAC-Score-Prediction"><b>CXR 기반 CAC Score 예측</b></a> <sub>Asan Medical Center</sub><br/><i>Chest X-Ray를 활용한 Coronary Artery Calcium Score 예측 연구. PA 3채널 모델 및 PA+LA Fusion 모델 포함.</i></li>
+</ul>
+
 <h3>Projects</h3>
 <ul>
   <li><a href="https://github.com/OSEOJ/IPO-Adjustment-Risk-Prediction"><b>IPO Adjustment Risk Prediction</b></a> <sub>2026.02</sub><br/><i>Multi-task learning model (AITM, MMoE, PLE) for predicting IPO price adjustment risk using financial disclosures and DART API.</i></li>
@@ -44,4 +49,3 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/OSEOJ/OSEOJ/output/github-snake.svg" />
   </picture>
 </div>
-
