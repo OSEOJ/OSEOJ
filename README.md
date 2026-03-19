@@ -35,3 +35,5 @@
   <li><a href="https://github.com/OSEOJ/LendingClub-Credit-Default-Prediction"><b>LendingClub Credit Default Prediction</b></a> <sub>2025.03</sub><br/><i>Credit default prediction on imbalanced loan data using ensemble models with SHAP-based interpretability.</i></li>
   <li><a href="https://github.com/OSEOJ/Jeju_WindTurbine_Location_Selection"><b>Jeju Wind Turbine Location Selection</b></a> <sub>2024.10</sub><br/><i>Optimal wind turbine site selection in Jeju Island using GIS analysis and AHP (Analytic Hierarchy Process).</i></li>
 </ul>
+
+![OSEOJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=OSEOJ&show_icons=true&theme=radical)
