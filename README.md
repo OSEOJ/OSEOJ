@@ -1,5 +1,5 @@
-<h2>Hi, I'm Yeongseo Jo</h2>
-<p>I'm currently a Medical Image AI Researcher at <strong>Asan Medical Center</strong> <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="13"/> based in Seoul, South Korea. I'm passionate about applying AI across diverse domains — from medical imaging to finance — and exploring how data-driven approaches can solve real-world problems.</p>
+<h2>Hi, I'm Jo Yeongseo</h2>
+<p>I'm currently a Medical Image AI Researcher at <strong>Asan Medical Center</strong> <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="13"/> based in Seoul, South Korea. I'm passionate about applying AI across diverse domains — from medical to finance — and exploring how data-driven approaches can solve real-world problems.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -25,7 +25,6 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
 <h3>Research & Projects</h3>
