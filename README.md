@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Yeongseo Jo</h2>
+<h2>Hi, I'm Yeongseo Jo</h2>
 <p>I'm currently a Medical Image AI Researcher at <strong>Asan Medical Center</strong> <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="13"/> based in Seoul, South Korea. I'm passionate about applying AI across diverse domains — from medical imaging to finance — and exploring how data-driven approaches can solve real-world problems.</p>
 
 <h3>Things I code with</h3>
@@ -28,17 +28,13 @@
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
-<h3>Research</h3>
+<h3>Research & Projects</h3>
 <ul>
-  <li><a href="https://github.com/OSEOJ/CXR-CAC-Score-Prediction"><b>CXR 기반 CAC Score 예측</b></a> <sub>Asan Medical Center</sub><br/><i>Chest X-Ray를 활용한 Coronary Artery Calcium Score 예측 연구. PA 3채널 모델 및 PA+LA Fusion 모델 포함.</i></li>
-</ul>
-
-<h3>Projects</h3>
-<ul>
-  <li><a href="https://github.com/OSEOJ/IPO-Adjustment-Risk-Prediction"><b>IPO Adjustment Risk Prediction</b></a> <sub>2026.02</sub><br/><i>Multi-task learning model (AITM, MMoE, PLE) for predicting IPO price adjustment risk using financial disclosures and DART API.</i></li>
-  <li><a href="https://github.com/OSEOJ/Stock-Price-Prediction-with-ConTime-LSTM"><b>Stock Price Prediction with ConTime-LSTM</b></a> <sub>2025.07</sub><br/><i>Stock price forecasting using Continuous-Time LSTM with Neural ODE, incorporating graph-based inter-stock relationships.</i></li>
-  <li><a href="https://github.com/OSEOJ/LendingClub-Credit-Default-Prediction"><b>LendingClub Credit Default Prediction</b></a> <sub>2025.03</sub><br/><i>Credit default prediction on imbalanced loan data using ensemble models with SHAP-based interpretability.</i></li>
-  <li><a href="https://github.com/OSEOJ/Jeju_WindTurbine_Location_Selection"><b>Jeju Wind Turbine Location Selection</b></a> <sub>2024.10</sub><br/><i>Optimal wind turbine site selection in Jeju Island using GIS analysis and AHP (Analytic Hierarchy Process).</i></li>
+  <li><a href="https://github.com/OSEOJ/CXR-CAC-Score-Prediction"><b>CXR-Based CAC Score Prediction</b></a> <sub>Asan Medical Center_2026.01~</sub><br/><i>Deep learning research for predicting Coronary Artery Calcium Score from Chest X-Ray. Includes PA 3-channel model and PA+LA fusion model.</i></li>
+  <li><a href="https://github.com/OSEOJ/IPO-Adjustment-Risk-Prediction"><b>IPO Adjustment Risk Prediction</b></a> <sub>DB Insurance_2026.02</sub><br/><i>Multi-task learning model (AITM, MMoE, PLE) for predicting IPO price adjustment risk using financial disclosures and DART API.</i></li>
+  <li><a href="https://github.com/OSEOJ/Stock-Price-Prediction-with-ConTime-LSTM"><b>Stock Price Prediction with ConTime-LSTM</b></a> <sub>University of Ulsan_2025.07</sub><br/><i>Stock price forecasting using Continuous-Time LSTM with Neural ODE, incorporating graph-based inter-stock relationships.</i></li>
+  <li><a href="https://github.com/OSEOJ/LendingClub-Credit-Default-Prediction"><b>LendingClub Credit Default Prediction</b></a> <sub>Seoul National University_2025.03</sub><br/><i>Credit default prediction on imbalanced loan data using ensemble models with SHAP-based interpretability.</i></li>
+  <li><a href="https://github.com/OSEOJ/Jeju_WindTurbine_Location_Selection"><b>Jeju Wind Turbine Location Selection</b></a> <sub>Korea National Oil Corporation_2024.10</sub><br/><i>Optimal wind turbine site selection in Jeju Island using GIS analysis and AHP (Analytic Hierarchy Process).</i></li>
 </ul>
 
 <h3>GitHub Activity</h3>
