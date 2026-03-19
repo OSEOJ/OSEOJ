@@ -38,6 +38,5 @@
 
 <h3>GitHub Activity</h3>
 <p align="center">
-  <img src="https://ghchart.rainb0w.me/OSEOJ" alt="OSEOJ's GitHub chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OSEOJ&hide_border=true&area=true&hide=prs,issues" alt="OSEOJ's GitHub Activity Graph" />
 </p>
-
