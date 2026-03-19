@@ -36,4 +36,11 @@
   <li><a href="https://github.com/OSEOJ/Jeju_WindTurbine_Location_Selection"><b>Jeju Wind Turbine Location Selection</b></a> <sub>2024.10</sub><br/><i>Optimal wind turbine site selection in Jeju Island using GIS analysis and AHP (Analytic Hierarchy Process).</i></li>
 </ul>
 
-![OSEOJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=OSEOJ&show_icons=true&theme=radical)
+<h3>GitHub Activity</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OSEOJ&hide_border=true&date_format=Y.n.j" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://ghchart.rainb0w.me/OSEOJ" alt="OSEOJ's GitHub chart" />
+</p>
+
