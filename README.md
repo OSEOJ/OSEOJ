@@ -38,5 +38,6 @@
 
 <h3>GitHub Activity</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OSEOJ&hide_border=true&area=true&hide=prs,issues" alt="OSEOJ's GitHub Activity Graph" />
+  <img src="https://ssr-contributions-svg.vercel.app/_/OSEOJ?chart=calendar&gap=0.6&scale=2&flatten=1&format=svg" alt="OSEOJ's GitHub Contribution Calendar" />
 </p>
+
