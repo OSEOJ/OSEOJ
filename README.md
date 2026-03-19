@@ -38,9 +38,6 @@
 
 <h3>GitHub Activity</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=OSEOJ&hide_border=true&date_format=Y.n.j" alt="GitHub Streak" />
-</p>
-<p align="center">
   <img src="https://ghchart.rainb0w.me/OSEOJ" alt="OSEOJ's GitHub chart" />
 </p>
 
