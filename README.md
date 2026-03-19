@@ -26,10 +26,10 @@
 
 <h3>Projects</h3>
 <ul>
-  <li><a href="https://github.com/OSEOJ/Stock-Price-Prediction-with-ConTime-LSTM"><b>Stock Price Prediction with ConTime-LSTM</b></a><br/><i>Stock price forecasting using Continuous-Time LSTM with Neural ODE, incorporating graph-based inter-stock relationships.</i></li>
-  <li><a href="https://github.com/OSEOJ/IPO-Adjustment-Risk-Prediction"><b>IPO Adjustment Risk Prediction</b></a><br/><i>Multi-task learning model (AITM, MMoE, PLE) for predicting IPO price adjustment risk using financial disclosures and DART API.</i></li>
-  <li><a href="https://github.com/OSEOJ/LendingClub-Credit-Default-Prediction"><b>LendingClub Credit Default Prediction</b></a><br/><i>Credit default prediction on imbalanced loan data using ensemble models with SHAP-based interpretability.</i></li>
-  <li><a href="https://github.com/OSEOJ/Jeju_WindTurbine_Location_Selection"><b>Jeju Wind Turbine Location Selection</b></a><br/><i>Optimal wind turbine site selection in Jeju Island using GIS analysis and AHP (Analytic Hierarchy Process).</i></li>
+  <li><a href="https://github.com/OSEOJ/IPO-Adjustment-Risk-Prediction"><b>IPO Adjustment Risk Prediction</b></a> <sub>2025.07</sub><br/><i>Multi-task learning model (AITM, MMoE, PLE) for predicting IPO price adjustment risk using financial disclosures and DART API.</i></li>
+  <li><a href="https://github.com/OSEOJ/Stock-Price-Prediction-with-ConTime-LSTM"><b>Stock Price Prediction with ConTime-LSTM</b></a> <sub>2025.07</sub><br/><i>Stock price forecasting using Continuous-Time LSTM with Neural ODE, incorporating graph-based inter-stock relationships.</i></li>
+  <li><a href="https://github.com/OSEOJ/LendingClub-Credit-Default-Prediction"><b>LendingClub Credit Default Prediction</b></a> <sub>2025.07</sub><br/><i>Credit default prediction on imbalanced loan data using ensemble models with SHAP-based interpretability.</i></li>
+  <li><a href="https://github.com/OSEOJ/Jeju_WindTurbine_Location_Selection"><b>Jeju Wind Turbine Location Selection</b></a> <sub>2025.07</sub><br/><i>Optimal wind turbine site selection in Jeju Island using GIS analysis and AHP (Analytic Hierarchy Process).</i></li>
 </ul>
 
 <h3>Where to find me</h3>
