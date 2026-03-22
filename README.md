@@ -29,11 +29,11 @@
 
 <h3>Research & Projects</h3>
 <ul>
-  <b>CXR-Based CAC Score Prediction</b></a> <sub>Asan Medical Center_2026.01~</sub><br/><i>Deep learning research for predicting Coronary Artery Calcium Score from Chest X-Ray.</i></li>
+  <li><b>CXR-Based CAC Score Prediction</b></a> <sub>Asan Medical Center_2026.01~</sub><br/><i>Deep learning research for predicting Coronary Artery Calcium Score from Chest X-Ray.</i></li>
   <li><a href="https://github.com/OSEOJ/IPO-Adjustment-Risk-Prediction"><b>IPO Adjustment Risk Prediction</b></a> <sub>DB Insurance_2026.02</sub><br/><i>Multi-task learning model for predicting IPO price adjustment risk.</i></li>
   <li><a href="https://github.com/OSEOJ/Stock-Price-Prediction-with-ConTime-LSTM"><b>Stock Price Prediction with ConTime-LSTM</b></a> <sub>University of Ulsan_2025.07</sub><br/><i>Stock price forecasting using Continuous-Time LSTM with Neural ODE.</i></li>
   <li>
-    <b>LLM-OCR Based Prospectus Information Extraction</b> <sub>FnGuide (Financial Engineering Lab)_2025.04</sub><br/><i>Developed an automated pipeline for extracting features from investment prospectuses with 98% accuracy and 12x efficiency.</i>
+    <b>LLM-OCR Based Prospectus Information Extraction</b> <sub>FnGuide_2025.04</sub><br/><i>Adaptive OCR alignment and Product-specific prompt optimization.</i>
   </li>
   <li><a href="https://github.com/OSEOJ/LendingClub-Credit-Default-Prediction"><b>LendingClub Credit Default Prediction</b></a> <sub>Seoul National University_2025.03</sub><br/><i>Credit default prediction on imbalanced loan data using ensemble models.</i></li>
   <li><a href="https://github.com/OSEOJ/Jeju_WindTurbine_Location_Selection"><b>Jeju Wind Turbine Location Selection</b></a> <sub>Korea National Oil Corporation_2024.10</sub><br/><i>Optimal wind turbine site selection in Jeju Island using GIS analysis and AHP.</i></li>
