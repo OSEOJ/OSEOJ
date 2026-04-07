@@ -29,7 +29,7 @@
 
 <h3>Research & Projects</h3>
 <ul>
-  <li><b>CXR-Based CAC Score Prediction</b></a> <sub>Asan Medical Center_2026.01~</sub><br/><i>Deep learning research for predicting Coronary Artery Calcium Score from Chest X-Ray.</i></li>
+  <li><a href="https://github.com/OSEOJ/CXR-Based_CAC_Score_Prediction"><b>CXR-Based CAC Score Prediction</b></a> <sub>Asan Medical Center_2026.01~</sub><br/><i>Deep learning research for predicting Coronary Artery Calcium Score from Chest X-Ray.</i></li>
   <li><a href="https://github.com/OSEOJ/IPO-Adjustment-Risk-Prediction"><b>IPO Adjustment Risk Prediction</b></a> <sub>DB Insurance_2026.02</sub><br/><i>Multi-task learning model for predicting IPO price adjustment risk.</i></li>
   <li><a href="https://github.com/OSEOJ/Stock-Price-Prediction-with-ConTime-LSTM"><b>Stock Price Prediction with ConTime-LSTM</b></a> <sub>University of Ulsan_2025.07</sub><br/><i>Stock price forecasting using Continuous-Time LSTM with Neural ODE.</i></li>
   <li>
