@@ -3,28 +3,11 @@
 
 <h3>Things I code with</h3>
 <p>
-  <!-- Language -->
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <!-- Deep Learning -->
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="HuggingFace" src="https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black" />
-  <!-- ML -->
-  <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img alt="Optuna" src="https://img.shields.io/badge/-Optuna-4B8BBE?style=flat-square&logo=optuna&logoColor=white" />
-  <img alt="SHAP" src="https://img.shields.io/badge/-SHAP-FF6F61?style=flat-square&logoColor=white" />
-  <!-- Medical Imaging -->
-  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img alt="SimpleITK" src="https://img.shields.io/badge/-SimpleITK-0078D7?style=flat-square&logoColor=white" />
-  <!-- Data -->
-  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <!-- Visualization -->
-  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
-  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square&logoColor=white" />
-  <!-- Dev / Infra -->
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
 <h3>Research & Projects</h3>
